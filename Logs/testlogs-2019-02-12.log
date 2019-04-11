@@ -1,0 +1,7 @@
+17:44:17.036 [main] INFO  resources.base - Extent Reports Version 3 Test Suite started!
+17:44:18.277 [main] INFO  resources.base - Driver is initialized
+17:44:18.282 [main] INFO  resources.base - basePageNavigation started!
+17:44:18.421 [main] INFO  resources.base - Navigated to Home page
+17:44:28.854 [main] INFO  resources.base - basePageNavigation failed!
+17:44:28.856 [main] INFO  resources.base - basePageNavigation started!
+17:44:28.927 [main] INFO  resources.base - Navigated to Home page

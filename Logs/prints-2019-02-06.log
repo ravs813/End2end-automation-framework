@@ -1,0 +1,8 @@
+17:22:15.446 [main] INFO  resources.base - Driver is initialized
+17:22:24.896 [main] INFO  resources.base - Navigated to Home page
+17:22:33.581 [main] INFO  resources.base - Verifying title
+17:22:41.042 [main] INFO  resources.base - Navigated to Home page
+17:22:49.835 [main] INFO  resources.base - Navigated to Login page
+17:22:53.800 [main] INFO  resources.base - Navigated to Home page
+17:22:56.441 [main] INFO  resources.base - Navigated to Login page
+17:22:58.954 [main] INFO  resources.base - Navigation bar is displayed

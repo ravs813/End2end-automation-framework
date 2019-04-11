@@ -1,0 +1,7 @@
+11:28:51.291 [main] INFO  resources.base - basePageNavigation failed!
+11:28:51.294 [main] INFO  resources.base - basePageNavigation started!
+11:28:51.369 [main] INFO  resources.base - Navigated to Home page
+11:29:01.704 [main] INFO  resources.base - basePageNavigation failed!
+11:29:01.787 [main] INFO  resources.base - Extent Reports Version 3  Test Suite is ending!
+11:29:01.845 [main] INFO  resources.base - Extent Reports Version 3 Test Suite started!
+11:29:03.296 [main] INFO  resources.base - Navigated to Home page

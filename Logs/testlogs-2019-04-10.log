@@ -1,0 +1,7 @@
+15:01:07.346 [main] INFO  resources.base - validateNavigation started!
+15:01:07.404 [main] INFO  resources.base - Navigation bar is displayed
+15:01:07.405 [main] INFO  resources.base - validateNavigation passed!
+15:01:09.783 [main] INFO  resources.base - Extent Reports Version 3  Test Suite is ending!
+15:01:09.830 [main] INFO  resources.base - Extent Reports Version 3 Test Suite started!
+15:01:10.101 [main] INFO  resources.base - feature started!
+15:02:11.354 [main] INFO  resources.base - feature failed!
